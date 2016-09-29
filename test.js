@@ -10,7 +10,7 @@ const client = new TopClient({
   REST_URL: 'http://gw.api.taobao.com/router/rest',
 });
 
-sendMessage("15821788176", "涛哥侬好！", console.log);
+sendMessage("15216712252", "小豪去唱歌啊", console.log);
 
 function sendMessage(mobile, content, cb) {
   console.log({
